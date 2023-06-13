@@ -15,8 +15,6 @@ To run this code, you will need to have Python 3.8+ installed on your printer(wh
 You will also need the free POSTEK Companion app which can be downloaded here:
 
 https://www.postekus.com/service-support/download/software/
-    
- 
 
 ## Usage
 
