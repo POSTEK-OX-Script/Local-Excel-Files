@@ -10,7 +10,13 @@ https://youtu.be/8b-7YVsjUfY
 
 ## Installation
 
- To run this code, you will need to have Python 3.8+ installed on your printer(which comes standard on all POSTEK Printers that support OX Script after May 2023). You will be able to execute this code directly on your computer but the behavoir is probably going to be different from behaviors on the printer as it is intended to be executed on the printer
+To run this code, you will need to have Python 3.8+ installed on your printer(which comes standard on all POSTEK Printers that support OX Script after May 2023). You will be able to execute this code directly on your computer but the behavior is probably going to be different from behaviors on the printer as it is intended to be executed on the printer
+  
+You will also need the free POSTEK Companion app which can be downloaded here:
+
+https://www.postekus.com/service-support/download/software/
+    
+ 
 
 ## Usage
 
