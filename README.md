@@ -1,6 +1,6 @@
 # Local-Excel-Files
 
-This code is designed to print labels on a printer based on data retrieved from a or many excel files stored inside the printer
+This code is designed to print labels on a printer based on data retrieved from a or many Excel files stored inside the printer
 
 ## Demo video
 
@@ -20,15 +20,15 @@ https://www.postekus.com/service-support/download/software/
 
 Currently the code requires two files to execute, an Excel file and a command file that holds all the information in regards to the actual label design. 
 
-Both files are provided in this repository. Please note the command file is provided for 300 dpi machines, you can easily generate your own design using a label editing software like bartender and the Excel data can be easily replaced with your own Excel file. Be sure to change the part of the code that iterates through the excel file if you are using a different data structure for your excel file.
+Both files are provided in this repository. Please note the command file is provided for 300 dpi machines, You can easily generate your own design using a label editing software like Bartender and the Excel data can be easily replaced with your own Excel file. Be sure to change the part of the code that iterates through the Excel file if you are using a different data structure for your Excel file.
 
-To execute this demo, simply load the .py file, Fixed Assets Data.xlsx(Source for the data) and command4-en.txt(file for the label design) into your printer through the POSTEK App. Then to run the program you can initiate it from the printer touch screen or the POSTEK App. 
+To execute this demo, simply load the .py file, Fixed Assets Data.xlsx(Source for the data), and command4-en.txt(file for the label design) into your printer through the POSTEK App. Then to run the program you can initiate it from the printer touch screen or the POSTEK App. 
 
-- Initiating the program from printer touch screen
+- Initiating the program from the printer touchscreen
     - On your printer's touch screen, go to settings>Ox Script>[your file name].py. Press it and select run from the bottom right of the pop-up window
  
 - Initiating the program from the POSTEK App
-    - Inside the App, select Ox Script from the left hand side. Connect to the printer that you just moved the files to and select the file from the left hand side drop down, click run on the top right hand corner
+    - Inside the App, select Ox Script from the left-hand side. Connect to the printer that you just moved the files to and select the file from the left-hand side drop-down, click run on the top right-hand corner
 
 ## License
 
